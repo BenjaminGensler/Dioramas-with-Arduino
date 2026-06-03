@@ -41,6 +41,7 @@ A festive holiday diorama enhanced with Arduino-controlled features.
 - Seasonal lighting patterns
 - Interactive controls
 
+[View detailed documentation →](./Gingerbread%20House%20Diorama/README.md)
 ---
 
 ## 🛠️ Getting Started
